@@ -82,8 +82,7 @@ canvas {
 
 .img {
   position: absolute;
-  left: 50%;
-  top: 63.5%;
+  top: 66%;
   transform: translate(-50%, -45%);
   width: 420px;
   height: 420px;
